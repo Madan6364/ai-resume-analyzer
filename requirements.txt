@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+jinja2
+spacy
+scikit-learn==1.4.2
+pymupdf
